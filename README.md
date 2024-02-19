@@ -1,8 +1,8 @@
 # drinking-age
 
-**First Name:**
+**First Name: Christie**
 
-**Last Name:**
+**Last Name: Vu**
 
 Go to `drinking-age.js` and implement the function `checkDrinkingAge()`. 
 
